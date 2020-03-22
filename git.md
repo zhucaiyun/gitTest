@@ -12,3 +12,12 @@
       modified:   readme.txt 【修改的文件】
 
     no changes added to commit (use "git add" and/or "git commit -a")
+  
+  # On branch master 【add 以后的提示】
+    Changes to be committed:
+      (use "git reset HEAD <file>..." to unstage)
+
+      new file:   .DS_Store
+      modified:   git.md 【修改】
+      new file:   gittest.md 【新文件】
+
