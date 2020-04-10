@@ -19,9 +19,9 @@
       (use "git reset HEAD <file>..." to unstage)
 
       new file:   .DS_Store
-      modified:   git.md 【修改】
+      modified:   git.md 【修改】dfasdfds
       new file:   gittest.md 【新文件】
   # nothing to commit, working tree clean 【commit完以后的】
 
-# git diff git.md 【查看文件的提交的详细】
+# git diff git.md 【查看文件的提交的详细】 git diff HEAD -- fileName.type的区别
 
