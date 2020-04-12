@@ -24,4 +24,5 @@
   # nothing to commit, working tree clean 【commit完以后的】
 
 # git diff git.md 【查看文件的提交的详细】 git diff HEAD -- fileName.type的区别
-
+# test black
+# git checkout -- fileName
