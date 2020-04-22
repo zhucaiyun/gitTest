@@ -31,3 +31,5 @@
 
 ### this line is write in featur/custom branch 
 ### this line is commit but not push
+
+### 战争太可怕了终于知道为什么大家都呼吁和平了，不知道中国在发展的过程中经历了哪些磨难，为什么不好好学历史。。。
